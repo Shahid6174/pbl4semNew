@@ -30,9 +30,9 @@ Ensure you have the following installed:
 # Steps to Run
 
 1. Clone the repository.
-   ```
-   git clone https://github.com/your-repo/ExploreEase.git
-   ```
+```
+git clone https://github.com/your-repo/ExploreEase.git
+```
 
 2. Ensure you have Node.js installed.
 3. Change directory (cd) into the main folder.
